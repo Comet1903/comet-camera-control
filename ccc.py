@@ -4,6 +4,7 @@ import pyautogui
 
 cv2.namedWindow("Comet Camera Control - CCC") # Create a named window
 vc = cv2.VideoCapture(0) # Set camera to use
+vc.set(cv2.CAP_PROP_FPS, 60) # Set frame rate to 60
 
 if vc.isOpened(): # try to get the first frame
     rval, frame = vc.read() # read the first frame
