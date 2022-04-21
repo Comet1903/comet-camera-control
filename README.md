@@ -1,6 +1,13 @@
 # Comet Camera Control - CCC
 Control you cursor via a Python skript
 
+## How to use / Usage
+### Usage
+There is no reason why you should use this to control your cursor.
+
+### How to use
+Face your camera/webcam to a white sheet of paper. Face a black or dark object between the camera and the paper. For best results use a white pen with black tapt on the top.
+
 ## Setup
 ### Download and Install
 ```bash
@@ -17,5 +24,3 @@ vc = cv2.VideoCapture(0) # Replace 0 with you camera id
 ```bash
 python3 ccc.py
 ```
-
-
