@@ -6,7 +6,7 @@ Control you cursor via a Python skript
 There is no reason why you should use this to control your cursor.
 
 ### How to use
-Face your camera/webcam to a white sheet of paper. Face a black or dark object between the camera and the paper. For best results use a white pen with black tapt on the top.
+Face your camera/webcam to a white sheet of paper. Face a black or dark object between the camera and the paper. For best results use a white pen with black tape on the top.
 
 ## Setup
 ### Download and Install
